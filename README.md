@@ -17,8 +17,4 @@
 3. [Lab_03](https://github.com/pruthagwin123/AIML-2025/blob/main/Lab03_AIML.ipynb)
 4. [Lab_04](https://github.com/pruthagwin123/AIML-2025/blob/main/LAB04_AIML.ipynb)
 5. [Lab_05](https://github.com/pruthagwin123/AIML-2025/blob/main/Lab05_AIML.ipynb)
-6. [Lab 06]()
-7. [Lab 07]()
-8. [Lab 08]()
-9. [Lab 09]()
-10.[Lab 10]()
+
