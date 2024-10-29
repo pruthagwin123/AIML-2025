@@ -21,3 +21,4 @@
 7. [Lab_07](https://github.com/pruthagwin123/AIML-2025/blob/main/Lab07_SVM.ipynb)
 8. [Lab_08](https://github.com/pruthagwin123/AIML-2025/blob/main/Lab08_AIML.ipynb)
 9. [Lab_09](https://github.com/pruthagwin123/AIML-2025/blob/main/Lab09_AIML.ipynb)
+10. [Lab_10](https://github.com/pruthagwin123/AIML-2025/blob/main/Lab10_kmeans.ipynb)
